@@ -1,0 +1,57 @@
+# Test Case: Verify Stock Information Display
+
+**Test Case ID:** TC_STOCK_001  
+**Title:** Verify Stock Information Display for Selected Stocks (e.g., Tata Motors, Gail India Pvt Ltd.)  
+**Priority:** High  
+**Module:** Stock Information  
+**Created By:** Ajay Hajare  
+**Date Created:** 2025-04-25
+
+---
+
+## Pre-Conditions:
+- User is logged in to the application/website where stock information is displayed.
+- Internet connection is stable.
+
+## Test Data:
+| Stock Name            | Stock Symbol   |
+|-----------------------|----------------|
+| Tata Motors           | TATAMOTORS     |
+| Gail India Pvt Ltd.   | GAIL           |
+
+---
+
+## Steps:
+
+1. Navigate to the Stock Information section or search bar.
+2. Enter "Tata Motors" in the search field and select the corresponding result.
+3. Observe the stock information displayed for Tata Motors.
+4. Repeat steps 2-3 for "Gail India Pvt Ltd.".
+5. Verify the following information is displayed for each stock:
+    - Company Name
+    - Stock Symbol
+    - Current Price
+    - Price Change (absolute and percentage)
+    - Day’s High/Low
+    - 52-Week High/Low
+    - Time of last update
+---
+
+## Expected Results:
+
+- The application displays accurate and updated information for "Tata Motors" and "Gail India Pvt Ltd.".
+- All listed fields are present and populated with correct values eg. 52 Week High price and 52 Week Low price.
+- No information is missing or incorrectly mapped between stocks.
+- The time of last update reflects the latest data.
+- The UI displays the information in a user-friendly and readable manner.
+
+---
+
+## Post-Conditions:
+- None
+
+---
+
+## Notes:
+- Validate the displayed data against a reliable financial data provider/source for accuracy.
+- Repeat the test for other stocks as needed.

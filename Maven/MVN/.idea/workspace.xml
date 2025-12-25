@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b10250a-f71a-4a1d-8c3f-ad3ef01885a2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2waHHNnsyK9CdUnbqybQK0dGd4i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.MVN [clean].executor": "Run",
+    "Maven.MVN [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.D:/Maven/MVN/src/test/resources/testng.xml.executor": "Run",
+    "TestNG.RegistrationTest (1).executor": "Run",
+    "TestNG.RegistrationTest (2).executor": "Run",
+    "TestNG.RegistrationTest (3).executor": "Run",
+    "TestNG.RegistrationTest.executor": "Run",
+    "TestNG.RegistrationTest.testRegistrationForm (1).executor": "Run",
+    "TestNG.RegistrationTest.testRegistrationForm (2).executor": "Debug",
+    "TestNG.RegistrationTest.testRegistrationForm (3).executor": "Run",
+    "TestNG.RegistrationTest.testRegistrationForm.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Maven/Verify_Stock_Information_Display",
+    "onboarding.tips.debug.path": "D:/Maven/MVN/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.RegistrationTest (1)">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Verify_Stock_Information_Display" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Verify_Stock_Information_Display" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="D:/Maven/MVN/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Verify_Stock_Information_Display" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Verify_Stock_Information_Display" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.RegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Verify_Stock_Information_Display" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.RegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Verify_Stock_Information_Display" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.RegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest.testRegistrationForm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Verify_Stock_Information_Display" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.RegistrationTest" />
+      <option name="METHOD_NAME" value="testRegistrationForm" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.D:/Maven/MVN/src/test/resources/testng.xml" />
+      <item itemvalue="TestNG.RegistrationTest (1)" />
+      <item itemvalue="TestNG.RegistrationTest (2)" />
+      <item itemvalue="TestNG.RegistrationTest" />
+      <item itemvalue="TestNG.RegistrationTest.testRegistrationForm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegistrationTest (1)" />
+        <item itemvalue="TestNG.D:/Maven/MVN/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.RegistrationTest.testRegistrationForm" />
+        <item itemvalue="TestNG.RegistrationTest (2)" />
+        <item itemvalue="TestNG.RegistrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b10250a-f71a-4a1d-8c3f-ad3ef01885a2" name="Changes" comment="" />
+      <created>1746272680538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746272680538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
